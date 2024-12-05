@@ -1207,3 +1207,5 @@
 @@||sstats.adobe.com^
 @@||stats.adobe.com^
 @@||links.fandango.com^
+@@||pcom.edu^
+@@||mypcom.edu^
