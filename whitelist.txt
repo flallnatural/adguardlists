@@ -1208,3 +1208,4 @@
 @@||stats.adobe.com^
 @@||links.fandango.com^
 @@||pcom.edu^
+@@||jdownloader.org^
