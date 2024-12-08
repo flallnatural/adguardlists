@@ -1209,3 +1209,5 @@
 @@||links.fandango.com^
 @@||pcom.edu^
 @@||jdownloader.org^
+@@||helpdesk.privateinternetaccess.com^
+@@||www.privateinternetaccess.com^
