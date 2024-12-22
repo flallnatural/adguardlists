@@ -1211,3 +1211,6 @@
 @@||jdownloader.org^
 @@||helpdesk.privateinternetaccess.com^
 @@||www.privateinternetaccess.com^
+@@||apu.samsungelectronics.com^
+@@||bpu.samsungelectronics.com^
+@@||cpu.samsungelectronics.com^
