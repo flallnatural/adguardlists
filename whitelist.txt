@@ -1214,3 +1214,6 @@
 @@||apu.samsungelectronics.com^
 @@||bpu.samsungelectronics.com^
 @@||cpu.samsungelectronics.com^
+@@||static.pub
+@@||evidon.com
+@@||gaminglaptop.deals
