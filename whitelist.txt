@@ -1233,3 +1233,5 @@
 @@||static.pub
 @@||evidon.com
 @@||gaminglaptop.deals
+@@||storage.live.com
+@@||live.com
