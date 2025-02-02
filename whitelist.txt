@@ -1243,3 +1243,4 @@
 @@||bambulab.com^
 @@||sync-v2.brave.com^
 @@||brave.com^
+@@||cdn-apple.com^
