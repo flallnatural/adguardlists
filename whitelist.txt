@@ -1245,3 +1245,4 @@
 @@||brave.com^
 @@||cdn-apple.com^
 @@||wireguard.com^
+@@||ablink.account.etsy.com^
