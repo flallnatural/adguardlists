@@ -1246,3 +1246,5 @@
 @@||cdn-apple.com^
 @@||wireguard.com^
 @@||ablink.account.etsy.com^
+@@||account.etsy.com^
+@@||etsy.com^
