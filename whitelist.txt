@@ -1251,3 +1251,6 @@
 @@||openvpn.net^
 @@||198.100.158.95^
 @@||orcaslicer.net^
+@@||q4mn.adj.st^
+@@||adjust.com^
+@@||spotify.com^
