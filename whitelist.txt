@@ -1254,3 +1254,5 @@
 @@||q4mn.adj.st^
 @@||adjust.com^
 @@||spotify.com^
+@@||api.privateinternetaccess.com^
+@@||apiv5.privateinternetaccess.com^
