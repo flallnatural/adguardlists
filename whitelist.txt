@@ -1257,3 +1257,4 @@
 @@||api.privateinternetaccess.com^
 @@||apiv5.privateinternetaccess.com^
 @@||hopkinsrx.com^
+@@||jefferson.edu^
