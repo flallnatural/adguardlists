@@ -1260,3 +1260,5 @@
 @@||jefferson.edu^
 @@||myworkdaycdn.com^
 @@||duckdns.org^
+@@||torrentleech.cc^
+@@||noip.com^
