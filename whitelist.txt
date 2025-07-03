@@ -1263,4 +1263,4 @@
 @@||duckdns.org^
 @@||torrentleech.cc^
 @@||noip.com^
-@@||awstrack.me
+@@||awstrack.me^
